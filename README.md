@@ -14,3 +14,19 @@
 <h>Gradle도 앤트와 마찬가지로 터미널을 실행시킨후 <strong>brew install gradle</strong> 을 입력하게되면 자동으로 깔리게 됩니다</h>
 <h><img width="554" alt="image" src="https://user-images.githubusercontent.com/74278588/204413164-55b6cc68-b2a1-4e55-947d-fb05f98ae3e3.png">
 </h>
+
+<h1>4. 안드로이드 플랫폼 패키지 추가 설치하기</h1>
+<h>Tools
+	Android SDK Tools
+	Android SDK Platfor-tools
+	Android SDK Build-tools
+Android R(Api 29, R preview)
+	SDK Platform Android R Preview
+	Google Play Intel x86 Atom_64_System Image
+	Google APIs intel x86 Atom_64_System Image
+Extra
+	Android Support Repository
+	Google Repository
+	Google USB Driver
+	Intel x86 Emulator Accelerator(HAXM installer)
+</h>
