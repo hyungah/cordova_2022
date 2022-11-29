@@ -16,15 +16,15 @@
 </h>
 
 <h1>4. 안드로이드 플랫폼 패키지 추가 설치하기</h1>
-<h>Tools <br>
+<h><strong>Tools</strong> <br>
 	Android SDK Tools<br>
 	Android SDK Platfor-tools<br>
-	Android SDK Build-tools<br>
-Android R(Api 29, R preview)<br>
+	Android SDK Build-tools<br><br>
+<strong>Android R(Api 29, R preview)</strong><br>
 	SDK Platform Android R Preview<br>
 	Google Play Intel x86 Atom_64_System Image<br>
-	Google APIs intel x86 Atom_64_System Image<br>
-Extra<br>
+	Google APIs intel x86 Atom_64_System Image<br><br>
+<strong>Extra</strong><br>
 	Android Support Repository<br>
 	Google Repository<br>
 	Google USB Driver<br>
