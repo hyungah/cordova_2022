@@ -16,17 +16,17 @@
 </h>
 
 <h1>4. 안드로이드 플랫폼 패키지 추가 설치하기</h1>
-<h>Tools
-	Android SDK Tools
-	Android SDK Platfor-tools
-	Android SDK Build-tools
-Android R(Api 29, R preview)
-	SDK Platform Android R Preview
-	Google Play Intel x86 Atom_64_System Image
-	Google APIs intel x86 Atom_64_System Image
-Extra
-	Android Support Repository
-	Google Repository
-	Google USB Driver
-	Intel x86 Emulator Accelerator(HAXM installer)
+<h>Tools <br>
+	Android SDK Tools<br>
+	Android SDK Platfor-tools<br>
+	Android SDK Build-tools<br>
+Android R(Api 29, R preview)<br>
+	SDK Platform Android R Preview<br>
+	Google Play Intel x86 Atom_64_System Image<br>
+	Google APIs intel x86 Atom_64_System Image<br>
+Extra<br>
+	Android Support Repository<br>
+	Google Repository<br>
+	Google USB Driver<br>
+	Intel x86 Emulator Accelerator(HAXM installer)<br>
 </h>
