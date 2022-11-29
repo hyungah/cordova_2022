@@ -61,9 +61,31 @@
 <h1>7. 폰갭(코르도바 설치하기)</h1>
 <h>둘 다 위와 마찬가지로 터미널을 실행시킨후 이번에는 브루가 아닌 <br>
 <strong>>npm install -g phonegap<br>
->npm install -g cordova을 입력하게되면 자동으로 깔리게 됩니다</h>
+>npm install -g cordova</strong>을 입력하게되면 자동으로 깔리게 됩니다</h>
 	<h>설치 후 버전 확인 화면입니다</h>
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/74278588/204417027-a6f07c4a-85b7-4faa-b9fc-4638cce42a24.png">
 
+<h1>8. 안드로이드 스튜디오 설치</h1>
+<h>안드로이드 스튜디오는 안드로이드 스튜디오 홈페이지에 들어가 설치를 하면 됩니다</h>
+<h>https://developer.android.com/studio</h>
+<h><img width="960" alt="image" src="https://user-images.githubusercontent.com/74278588/204417298-8c9b293b-6525-446c-a9c7-cdb098b6b3e3.png">
+</h>
+
+<h1>9. 안드로이드 코르도바 앱 만들기</h1>
+<h>>mkdir \HybridProject <br>
+>cd \HybridProject<br>
+>cordova create test com.example.test testApp -d<br>
+>cd test<br>
+>dir<br>
+>dir platform<br>
+>cordova platform add android<br>
+>dir platform</h>
+<h>위에 순으로 차례대로 터미널에 입력한 후 파일이 생성이되면 </h>
+<h>안드로이드 스튜디오에 들어가서 해당 프로젝트로 들어가서 </h>
+<h>밑에 사진의 아이콘을 눌러 Device Manager로 들어가 원하는 디바이스를 다운받아 실행시키면</h>
+<img width="57" alt="image" src="https://user-images.githubusercontent.com/74278588/204417902-843fb767-16a4-4e75-906a-b4870b97e057.png">
+<h><img width="1083" alt="image" src="https://user-images.githubusercontent.com/74278588/204418010-ec2efcc3-c1c9-4154-94e4-fb50ced0febc.png">
+</h>
+위의 화면처럼 코르도바 캐릭터가 나오며 실행이 됩니다
 
 
