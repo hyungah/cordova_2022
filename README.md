@@ -16,6 +16,7 @@
 </h>
 
 <h1>4. 안드로이드 플랫폼 패키지 추가 설치하기</h1>
+<h>밑에 파일들을 다운받아야하는데 저는 뭔가 있는거도 있고 없는것도 있고 그래서 다 다운받았습니다</h>
 <h><strong>Tools</strong> <br>
 	Android SDK Tools<br>
 	Android SDK Platfor-tools<br>
@@ -29,4 +30,12 @@
 	Google Repository<br>
 	Google USB Driver<br>
 	Intel x86 Emulator Accelerator(HAXM installer)<br>
+</h>
+<h>안드로이드 스튜디오를 실행하고 프로젝트 목록이 뜨는 화면에서 우측 상단에 보면 점 3개가 있는데 거기를 클릭하면</h>
+<h><img width="662" alt="image" src="https://user-images.githubusercontent.com/74278588/204414267-ad79b4c6-108f-4158-887d-59b707a3c942.png">
+</h>
+<h>위 사진처럼 뜨게되는데 거기서 SDK Manager 를 누르고 들어가면</h>
+<h><img width="788" alt="image" src="https://user-images.githubusercontent.com/74278588/204414149-f978c699-b23e-4169-ad95-0c685ec37ea3.png">
+</h>
+<h><img width="968" alt="image" src="https://user-images.githubusercontent.com/74278588/204414101-271ae71f-3bbb-4e1a-bc5d-257ce050fd5a.png">
 </h>
